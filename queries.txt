@@ -1,0 +1,100 @@
+/searchPatientRecord 195 
+/numPatientDischarges DISEASE_4 21-12-1955 17-06-2016 USA 
+/topk-AgeRanges 1 Australia DISEASE_1 18-01-1975 03-07-2021 
+/numPatientDischarges DISEASE_2 07-03-1951 24-03-1987 Spain 
+/topk-AgeRanges 2 Lebanon DISEASE_1 27-05-1991 05-10-2013 
+/searchPatientRecord 95 
+/searchPatientRecord 836 
+/topk-AgeRanges 3 Poland DISEASE_6 18-07-1916 30-05-1961 
+/diseaseFrequency DISEASE_4 19-11-2009 09-09-2011 USA 
+/diseaseFrequency DISEASE_3 02-04-1930 26-07-1977  
+/topk-AgeRanges 2 USA DISEASE_6 30-09-1848 24-05-1949 
+/numPatientAdmissions DISEASE_4 22-11-1841 10-03-1925  
+/searchPatientRecord 38 
+/searchPatientRecord 890 
+/numPatientDischarges DISEASE_6 03-01-1937 15-04-2004  
+/searchPatientRecord 565 
+/numPatientDischarges DISEASE_4 28-11-1965 11-01-2016 Italy 
+/diseaseFrequency DISEASE_2 08-07-1875 08-05-1911 Australia 
+/diseaseFrequency DISEASE_4 14-11-1913 11-09-1996 China 
+/numPatientAdmissions DISEASE_5 18-03-1827 01-12-1917  
+/diseaseFrequency DISEASE_2 14-11-1850 17-06-1946  
+/numPatientDischarges DISEASE_5 26-06-1847 28-04-1951  
+/topk-AgeRanges 2 Italy DISEASE_1 29-07-1969 07-10-2014 
+/numPatientAdmissions DISEASE_3 14-07-1995 24-06-2005  
+/topk-AgeRanges 3 Greece DISEASE_4 06-01-1935 24-01-2011 
+/numPatientDischarges DISEASE_4 11-11-1850 15-06-1866 Spain 
+/searchPatientRecord 571 
+/searchPatientRecord 297 
+/diseaseFrequency DISEASE_1 30-09-1977 30-07-2001  
+/numPatientAdmissions DISEASE_2 02-02-1884 18-09-1920 Poland 
+/diseaseFrequency DISEASE_1 29-09-1822 14-05-1932 Australia 
+/numPatientAdmissions DISEASE_2 07-12-1847 19-04-1886  
+/searchPatientRecord 799 
+/numPatientDischarges DISEASE_6 01-07-1856 05-03-2012 Australia 
+/diseaseFrequency DISEASE_1 24-12-1934 12-05-2004  
+/topk-AgeRanges 1 Lebanon DISEASE_1 06-03-1970 20-09-1985 
+/numPatientAdmissions DISEASE_3 12-08-1869 03-10-1964 Australia 
+/topk-AgeRanges 2 Spain DISEASE_4 01-01-1942 16-03-2011 
+/topk-AgeRanges 1 USA DISEASE_5 14-04-1970 06-01-2005 
+/topk-AgeRanges 4 China DISEASE_1 09-01-2011 20-01-2015 
+/topk-AgeRanges 1 Afghanistan DISEASE_6 17-06-1867 28-05-1885 
+/diseaseFrequency DISEASE_1 30-07-1960 08-02-1997 Turkey 
+/diseaseFrequency DISEASE_4 27-01-1837 30-12-1892 Greece 
+/numPatientDischarges DISEASE_6 15-06-1943 21-04-1959 Poland 
+/numPatientDischarges DISEASE_4 03-01-1931 18-02-1977  
+/numPatientDischarges DISEASE_4 07-10-1870 20-10-1927 Lebanon 
+/numPatientDischarges DISEASE_6 13-08-1990 17-03-2006 USA 
+/searchPatientRecord 330 
+/searchPatientRecord 420 
+/numPatientDischarges DISEASE_3 29-08-1903 23-02-1995 Turkey 
+/topk-AgeRanges 4 Lebanon DISEASE_4 14-02-2002 09-08-2005 
+/topk-AgeRanges 4 China DISEASE_4 08-09-1832 30-04-1893 
+/diseaseFrequency DISEASE_6 18-08-1964 10-04-1979 Lebanon 
+/topk-AgeRanges 2 USA DISEASE_3 10-07-1864 15-11-2003 
+/numPatientAdmissions DISEASE_4 18-08-1838 08-03-1967 Australia 
+/numPatientAdmissions DISEASE_2 17-01-1823 05-02-2005 Greece 
+/numPatientDischarges DISEASE_2 03-11-1954 06-08-1992  
+/numPatientDischarges DISEASE_5 24-01-1828 13-07-1995 USA 
+/searchPatientRecord 522 
+/diseaseFrequency DISEASE_1 02-07-1837 20-12-1956  
+/searchPatientRecord 651 
+/topk-AgeRanges 3 Greece DISEASE_5 09-06-1856 14-11-1907 
+/numPatientAdmissions DISEASE_5 30-04-1985 08-08-2017 Poland 
+/topk-AgeRanges 3 Australia DISEASE_1 14-05-1961 08-06-2006 
+/diseaseFrequency DISEASE_2 12-07-1910 24-07-1945 Lebanon 
+/diseaseFrequency DISEASE_1 16-07-1824 25-04-1945  
+/topk-AgeRanges 1 Afghanistan DISEASE_3 27-11-1952 30-04-2009 
+/numPatientDischarges DISEASE_1 25-01-1863 29-11-1979 Greece 
+/numPatientDischarges DISEASE_3 15-11-1829 15-05-1913 Turkey 
+/numPatientDischarges DISEASE_2 17-08-1970 28-12-2009 Turkey 
+/numPatientDischarges DISEASE_3 27-12-1870 21-09-1974 Turkey 
+/diseaseFrequency DISEASE_4 19-05-1984 06-06-2013 Italy 
+/searchPatientRecord 762 
+/numPatientAdmissions DISEASE_3 06-08-2002 13-02-2015 Lebanon 
+/numPatientDischarges DISEASE_1 12-04-1889 26-11-1994 USA 
+/topk-AgeRanges 3 China DISEASE_6 20-01-1951 25-06-1970 
+/topk-AgeRanges 2 Poland DISEASE_3 16-12-2016 08-11-2018 
+/topk-AgeRanges 4 Afghanistan DISEASE_2 08-05-2021 04-02-2022 
+/numPatientDischarges DISEASE_4 14-09-1915 06-07-2014  
+/diseaseFrequency DISEASE_1 24-01-1975 04-07-1978  
+/searchPatientRecord 981 
+/searchPatientRecord 120 
+/searchPatientRecord 784 
+/searchPatientRecord 753 
+/topk-AgeRanges 4 Turkey DISEASE_6 13-04-1963 23-07-1995 
+/numPatientDischarges DISEASE_2 12-04-2021 18-12-2022  
+/topk-AgeRanges 3 Afghanistan DISEASE_3 18-09-1985 25-05-2001 
+/topk-AgeRanges 3 Australia DISEASE_3 01-10-1867 02-01-1972 
+/topk-AgeRanges 2 Spain DISEASE_1 24-09-2022 08-11-2022 
+/topk-AgeRanges 2 Australia DISEASE_5 01-02-1917 13-12-2021 
+/topk-AgeRanges 2 Turkey DISEASE_5 15-01-1938 17-05-1986 
+/topk-AgeRanges 4 Lebanon DISEASE_3 25-03-1942 12-09-1978 
+/topk-AgeRanges 2 USA DISEASE_1 11-12-1932 03-03-1972 
+/diseaseFrequency DISEASE_1 02-08-1883 09-12-1955 Spain 
+/numPatientAdmissions DISEASE_6 10-02-1918 22-10-2016  
+/numPatientDischarges DISEASE_1 27-10-1987 24-01-2005  
+/numPatientDischarges DISEASE_6 29-01-1985 06-01-2014  
+/searchPatientRecord 514 
+/topk-AgeRanges 3 China DISEASE_5 16-09-1892 31-07-1946 
+/topk-AgeRanges 2 Albania DISEASE_3 02-10-1926 15-07-1978 
