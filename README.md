@@ -1,7 +1,7 @@
 # Disease-Monitor
 Implementation of a Multi-threaded TCP  Server &amp; Client Setup for Disease Data Retrieval following a Custom Communication Protocol 🖥
 
-
+![Screenshot](design.png)
 
 ## Execution & Compilation:
 
@@ -20,24 +20,21 @@ Set up *Server* by typing: `./whoServer -q <Listening Port> -s <Statistics Port>
 
 Server has a **Listening Port**, which is used to receive queries from the Client Process. It also owns a **Statistics Port**, that is used
 to receive the statistics from the Worker Processes. The number of **Total Threads** that handle the reception and response
-to the posed queries is specified. Finally, user gives the size of the **Circular Buffer**, that is used to store information about the incoming
-query requesters. Server attempts to establish communication with the Worker Processes and listens to both ports for workers' positive response, client
-queries, workers' answers and sends them to the client processes.
+to the posed queries is specified. Finally, user gives the size of the [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer), that is used to store information about the incoming query requesters. Server attempts to establish communication with the Worker Processes and listens to both
+ports for workers' positive response, client queries, workers' answers and sends them to the client processes.
 
 ## Master:
 
 Set up *Master* by typing: `./master -w <Workers Number> -b <Buffer Size> -i <Input Directory> -s <Server IP>  -p <Server Port>` </br>
 
 Master Process initializes the requested number of Workers Processes, which now behave as independent servers. Sends them all the necessary information,
-allowing them to traverse the **Disease Database** and store its copy locally in efficient, custom data structures. Subsequently, Master Process is only
-responsible for safe worker termination and memory deallocation.
+allowing them to traverse the **Disease Database** and store its copy locally in efficient, custom data structures. Each worker has two [Hash-Tables](https://en.wikipedia.org/wiki/Hash_table) for countries and diseases respectively. Their entries point to [AVL-Trees](https://en.wikipedia.org/wiki/AVL_tree) with their nodes being the patient actions per country and disease respectively. Communication is done through [IPC Pipes](https://www.geeksforgeeks.org/ipc-technique-pipes/). Subsequently, Master Process is only responsible for safe worker termination and memory deallocation.
 
 ## Client:
 
 Set up *Client* by typing: `./whoClient -q <Query File> -w <Threads Number> -sp <Server Port> -sip <Server IP>` </br>
 
-Client initializes a group of processes that read queries from the produced file, parse them to the server and print the received answer.
-
+Client initializes a group of processes that read queries from the **Queries File**, parse them to the server and print the received answer.
 
 ### Further Information:
 
